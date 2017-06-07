@@ -1,0 +1,22 @@
+
+.jumbotron{
+	background-image: url("../Images/goku_jumbo.png");
+	background-size: 100% 180%;
+}
+
+
+.jumbotxt{
+	margin-top: 80px;
+	color: #778899;
+	text-shadow: 1px 1px black;
+}
+
+.jumbotxt p{
+	font-style: italic;
+}
+
+.jumbotxt a{
+	color: #778899;
+	text-decoration: none;
+}
+
